@@ -1,0 +1,41 @@
+body {
+    /* background-color: powderblue; */
+    background-image: url("src/icons/map.jpg");
+    background-size: cover;
+}
+
+h1{
+    background-color: rgb(82, 82, 136);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    align-items: center;
+    text-align: center;
+    padding-top: 2%;
+}
+h3 {
+    background-color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-items: center;
+    text-align: center;
+    padding-top: 2%;
+    font-size: 20px;
+}
+
+div{
+    /* background-color: rgb(136, 186, 230); */
+    padding-top: 3%;
+    padding-bottom: 3%;
+    align-items: center;
+    text-align: center;
+    font-size: x-large;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    width: 900px;
+    height: 400px;
+}
+
+section{
+    /* background-color: azure; */
+    align-items: center;
+    font-size: 80px;
+
+}
